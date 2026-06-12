@@ -49,6 +49,7 @@ activities.update({
         "max_participants": 22,
         "participants": ["alex@mergington.edu", "maria@mergington.edu"]
     },
+    
     "Swimming Club": {
         "description": "Swimming practice for all levels and recreational meets",
         "schedule": "Mondays and Wednesdays, 5:00 PM - 6:30 PM",
